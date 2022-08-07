@@ -7,7 +7,7 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 <p align="center">
 	<img src="https://telegra.ph/file/ceac8c133c2363d799f02.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Hisoka-Morou</h1>
+<h1 align="center">Arisu Sakayanagi</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
